@@ -1,0 +1,39 @@
+body{
+   /* background-image: url("profile.jpeg");*/
+   background-color: cadetblue;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top{
+    text-align: right;
+}
+
+#About{
+    text-align:left;
+}
+/*This link,visited,hover,active stuffs decorate your code*/
+a:link,a:visited{
+    text-decoration: none;
+    color:darkblue;
+}
+a:hover,a:active{
+    background-color:white;
+    color:black;
+}
+
+.pa1 p{
+    color:darkmagenta;
+}
+#contact{
+    text-align: center;
+    text-decoration: black;
+    color:crimson;
+}
+.contact1{
+    text-align: center;
+    word-spacing: 10px;
+
+}
+footer{
+    text-align: center;
+}
